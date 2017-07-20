@@ -1,0 +1,39 @@
+body
+{
+	font-family: sans-serif;
+}
+
+#menu
+{
+	float: left;
+}
+
+#text
+{
+	display: inline-block;
+	vertical-align: top;
+}
+
+a
+{
+	color: #5f5fff;
+	text-decoration: none;
+}
+
+a:hover
+{
+	text-decoration: underline;
+}
+
+img
+{
+	display: block;
+	padding: 5px;
+	width: 32px;
+	height: 32px;
+}
+
+img.selected
+{
+	background-color: #4f7fff;
+}

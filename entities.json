@@ -1,0 +1,7 @@
+[
+	{ "name": "belt", "variants": ["i","l","u","s"] },
+	{ "name": "inserter", "variants": ["a"] },
+	{ "name": "chest", "variants": ["a"] },
+	{ "name": "pipe", "variants": ["i","l","t","x","u"] },
+	{ "name": "factory", "variants": ["2","3","5"] }
+]
